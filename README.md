@@ -108,15 +108,8 @@ Chess/
 - **ChessLogic**: Contains all game logic, move validation, and state management. It's designed to be UI-agnostic, allowing for different interfaces (console, web, etc.).
 - **ChessUI**: Implements the WPF interface, handling user input, displaying the board and pieces, and managing game flow.
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ## Acknowledgments
 
 - Chess piece images and assets are included in the project
 - Built with .NET 8.0 and WPF for modern Windows applications
+
