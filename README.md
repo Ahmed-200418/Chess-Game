@@ -100,7 +100,6 @@ Chess/
 │   ├── PromotionMenu.xaml       # Pawn promotion selection
 │   ├── StartMenu.xaml           # Start menu
 │   └── ChessCursors.cs          # Custom cursor definitions
-└── TODO.md                      # Development tasks
 ```
 
 ## Architecture
